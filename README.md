@@ -37,4 +37,4 @@ License
 
 This project is licensed under the MIT License.
 
-Author : Khaja NajeebUdiin
+Author : Khaja Najeebuddin
